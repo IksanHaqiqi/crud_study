@@ -14,7 +14,7 @@ class UserController extends Controller
 
     public function dashboard()
     {
-        return view('layout.dashboard');
+        return view('partials.content-dashboard');
     }
     public function index(): mixed
     {

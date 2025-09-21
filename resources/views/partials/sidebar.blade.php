@@ -1,5 +1,3 @@
-@extends('layout.template')
-@section('content')
     <aside class="menu-sidebar2">
         <div class="logo">
             <a href="#">
@@ -69,4 +67,3 @@
             </nav>
         </div>
     </aside>
-@endsection
